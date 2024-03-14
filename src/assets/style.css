@@ -1,0 +1,62 @@
+.container{
+    max-width: 459px;
+    max-height: auto;
+    background-color: white;
+    margin: 20px auto;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 5px;
+    padding-bottom: 2px;
+    font-family: sans-serif;
+    line-height: 10px;
+}
+.container .header{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 10px;
+    line-height: 5px;
+    margin-bottom: 0;
+}
+.header h1{
+    letter-spacing: 2px;
+}
+.bottom{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.header-bottom{
+    margin-top: 0;
+    font-size: 12px;
+    text-align: center;
+}
+.header-bottom .email{
+    font-weight: bold;
+}
+.bottom .text-header{
+    font-size: 10px;
+    font-weight: 900;
+}
+.text-header{
+    margin: 0;
+}
+.bottom p{
+    font-size: 9px;
+    text-align: justify;
+}
+.bottom .list{
+    display: inline-block;
+    margin-top: 2px;
+}
+.left-list li{
+    font-size: 10px;
+    margin-bottom: 0;
+}
+.right-list li{
+    font-size: 10px;
+    margin-left: 20px;
+}
+.left-list{
+    display: inline-block;
+}
+.right-list{
+    display: inline-block;
+}
